@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mirkwoodia/mirkwoodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center"> Hi There, I'm Nader 👋 </h1>
+<h3 align="center">I'm a Software Developer 💻, and an At-Home Astronomer ☄️</h3>
+
+## 🔭 I’m currently working on
+- Discord Bot
+- Astrophysics Analyzer for when the new telescopes are built
+
+## 🌱 I’m currently learning
+- Machine Learning AI
+- GoLang
+
+## About Me
+- OldSchool Runescape Grinder
+- Enjoys long nights on the telescope
+- Youtube's every podcasts/tutorials (exurb1a's funny, PBS has some interesting documentaries that are worth it, and Indian men teach the best complex classes)
+- Ask me anything
 
 <h1 align="center">Technical Skills</h1>
 
