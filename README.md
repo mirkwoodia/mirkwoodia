@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a Software Developer 💻, and an At-Home Astronomer ☄️</h3>
 
 ## 🔭 I’m currently working on
-- Discord Bot
+- Discord Bot (Check out the robinAI repository)
 - Astrophysics Analyzer for when the new telescopes are built
 
 ## 🌱 I’m currently learning
