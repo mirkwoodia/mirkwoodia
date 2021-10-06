@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning
 - Machine Learning AI
 - GoLang
+- How to Automate my life
 
 ## About Me
 - OldSchool Runescape Grinder
