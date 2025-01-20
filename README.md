@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hi There, I'm Nader 👋 </h1>
-<h3 align="center">I'm a Software Developer 💻, an At-Home Astronomer ☄️, and a video game grinder</h3>
+<h1 align="center"> Welcome to my github page 👋 </h1>
+<h3 align="center">I'm Nader, a software developer, an AI engineer, at-home astronomer, a video game grinder, and manga reader, and probably some more.</h3>
 
 ## 🔭 I’m currently working on
 - Discord Bot (Check out the robinAI repository)
