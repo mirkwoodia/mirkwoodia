@@ -14,22 +14,22 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hi There, I'm Nader 👋 </h1>
-<h3 align="center">I'm a Software Developer 💻, and an At-Home Astronomer ☄️</h3>
+<h3 align="center">I'm a Software Developer 💻, an At-Home Astronomer ☄️, and a video game grinder</h3>
 
 ## 🔭 I’m currently working on
 - Discord Bot (Check out the robinAI repository)
 - Astrophysics Analyzer for when the new telescopes are built
+- Java and plugins
 
 ## 🌱 I’m currently learning
-- Machine Learning AI
-- GoLang
-- How to Automate my life
+- AI
+- Improving my database skills
+- Automations, scripts, and plugin work
 
 ## About Me
-- OldSchool Runescape Grinder
 - Enjoys long nights on the telescope
-- Youtube's every podcasts/tutorials (exurb1a's funny, PBS has some interesting documentaries that are worth it, and Indian men teach the best complex classes)
-- Ask me anything
+- Probably listening to a podcast on youtube or some soft-style music
+- Loves anime-style things, 2-4 player horror games, and video game achievements.
 
 <h1 align="center">Technical Skills</h1>
 
