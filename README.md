@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> My name is Nader👋 </h1>
+<h1 align="center"> Hi, I'm Nader👋 </h1>
 <h3 align="center">I'm a software developer, an AI engineer, at-home astronomer, a video gamer and manga reader.</h3>
 
 ## 🔭 I’m currently working on
